@@ -1,6 +1,6 @@
 # Hotel-Analysis-Dashboard
 
-# End-to-End Data Analytics Project: Power BI (Hospitality Domain)
+# End-to-End Data Analytics Project: Power BI (Hotel Domain)
 
 A step-by-step guide to building a real-world hotel analytics dashboard using Power BI. Perfect for beginners learning data analytics!
 
@@ -34,4 +34,8 @@ This project simulates a real hotel chain scenario where you'll:
 3. Create calculated metrics
 4. Design the dashboard
 5. Get feedback and improve
+
+## Project duration
+ - Start date:May 2025
+ - End date-June 2025
 
